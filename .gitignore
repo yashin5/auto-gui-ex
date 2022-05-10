@@ -1,5 +1,6 @@
 /_build
 /cover
+/priv/__pycache__
 /deps
 /doc
 /.fetch
